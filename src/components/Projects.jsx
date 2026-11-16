@@ -21,6 +21,7 @@ const projects = [
       "ESP32-based sensor system for temperature, pressure and humidity acquisition, with a Python host application and aviation-style synthesized weather audio.",
     tags: ["ESP32", "Embedded C/C++", "Sensors", "Python", "I²C"],
     status: "Personal project",
+    github: "https://github.com/ThisIsMurica/esp32-awos-weather-station",
   },
   {
     title: "AeroBrief",
