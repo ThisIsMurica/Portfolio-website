@@ -5,6 +5,7 @@ const projects = [
       "ESP32-S3 touchscreen flight-management and navigation computer with GPS integration, real-time course, distance, groundspeed, ETE and ETA calculations, plus Direct-To, flight-plan, route and progress functionality.",
     tags: ["ESP32-S3", "C/C++", "LVGL", "GPS", "I²C"],
     status: "In development",
+    github: "https://github.com/ThisIsMurica/esp32-s3-flight-management-computer",
   },
   {
     title: "Live ADS-B Aircraft Tracker",
