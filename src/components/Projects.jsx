@@ -13,6 +13,7 @@ const projects = [
       "Real-time 1090 MHz ADS-B receiver built with a Raspberry Pi and RTL-SDR, parsing aircraft telemetry and driving a 64×32 HUB75 RGB LED matrix display.",
     tags: ["Raspberry Pi", "RTL-SDR", "Python", "RF", "GPIO"],
     status: "Personal project",
+    github: "https://github.com/ThisIsMurica/raspberry-pi-adsb-aircraft-tracker",
   },
   {
     title: "Portable Automated Weather Observation Station",
